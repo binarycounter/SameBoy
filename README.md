@@ -1,3 +1,7 @@
+# SameBoy CPU Hack
+
+This repo aims to hack the SameBoy emulator, to allow the GB CPU to run at much higher speeds, mostly to experiment with LSDj "overclocking", which is too taxing on the stock CPU at higher overclock multipliers. I guarantee no compatibility with any real hardware, since what I'm doing is very out of spec. LIJI, I'm sorry for hacking up your beautiful code.
+
 # SameBoy
 
 SameBoy is an open source Game Boy (DMG) and Game Boy Color (CGB) emulator, written in portable C. It has a native Cocoa frontend for macOS, an SDL frontend for other operating systems, and a libretro core. It also includes a text-based debugger with an expression evaluator. Visit [the website](https://sameboy.github.io/).
